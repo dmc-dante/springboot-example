@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/demo1/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/pom.xml" />
         <option value="$PROJECT_DIR$/demo-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-auto-update/pom.xml" />
       </list>
     </option>
   </component>

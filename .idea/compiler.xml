@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo-auto-update" />
         <module name="demo-jsp" />
         <module name="demo1" />
         <module name="demo2" />
@@ -14,6 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-auto-update" options="-parameters" />
       <module name="demo-jsp" options="-parameters" />
       <module name="demo1" options="-parameters" />
       <module name="demo2" options="-parameters" />
