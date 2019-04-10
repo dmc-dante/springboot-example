@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springboot-lesson1" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo1/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-jsp/pom.xml" />
         <option value="$PROJECT_DIR$/demo-auto-update/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-mybatis/pom.xml" />
       </list>
     </option>
   </component>

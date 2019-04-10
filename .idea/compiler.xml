@@ -8,15 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-auto-update" />
         <module name="demo-jsp" />
+        <module name="demo-mybatis" />
         <module name="demo1" />
         <module name="demo2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-jsp" target="1.8" />
+      <module name="springboot-lesson1" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-auto-update" options="-parameters" />
       <module name="demo-jsp" options="-parameters" />
+      <module name="demo-mybatis" options="-parameters" />
       <module name="demo1" options="-parameters" />
       <module name="demo2" options="-parameters" />
     </option>
