@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/demo2/pom.xml" />
         <option value="$PROJECT_DIR$/demo-auto-update/pom.xml" />
         <option value="$PROJECT_DIR$/demo-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
       </list>
     </option>
   </component>
